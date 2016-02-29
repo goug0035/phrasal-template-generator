@@ -1,8 +1,8 @@
-var colour
-var creature
-var adjective
-var verd
-var story
+var colour;
+var creature;
+var adjective;
+var verd;
+var story;
 
 alert('Let’s make a story together!');
 
